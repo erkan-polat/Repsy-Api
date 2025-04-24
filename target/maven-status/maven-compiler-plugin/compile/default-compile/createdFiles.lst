@@ -1,0 +1,9 @@
+com\repsy\RepsyApiApplication.class
+com\repsy\repository\PackageMetadataRepository.class
+com\repsy\storage\MinioStorageService.class
+com\repsy\controller\PackageController.class
+com\repsy\config\StorageConfig.class
+com\repsy\storage\FileSystemStorageService.class
+com\repsy\model\PackageDependency.class
+com\repsy\model\PackageMetadata.class
+com\repsy\storage\StorageService.class
